@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# SSH
+azure-web1
+azure-web1.pub
+
+# Logs
+error.txt
+
+# VS Code
+.vscode/
