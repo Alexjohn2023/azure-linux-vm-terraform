@@ -1,5 +1,10 @@
 # Azure Linux VM Deployment using Terraform
 
+![Terraform](https://img.shields.io/badge/Terraform-IaC-blueviolet)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-green)
+![SSH](https://img.shields.io/badge/SSH-Enabled-success)
+
 Deploy Azure infrastructure using Terraform with Infrastructure as Code (IaC) principles.
 
 ## Project Overview
