@@ -117,7 +117,19 @@ azure-linux-vm-terraform/
 ├── .gitignore
 └── screenshots/
 ```
+## Screenshots
 
+### Architecture
+
+![Architecture](screenshots/architecture.png)
+
+### Terraform Deployment
+
+![Terraform Apply](screenshots/terraform-apply.png)
+
+### SSH Connection
+
+![SSH](screenshots/ssh-web1.png)
 ---
 
 ## Project Status
