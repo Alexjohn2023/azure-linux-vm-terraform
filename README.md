@@ -166,3 +166,5 @@ Alexander Njoku — Cloud & DevOps Engineer
 [LinkedIn](https://linkedin.com/in/alexander-njoku-62040a194) · 
 [Medium](https://medium.com/@alex2020global) · 
 [Portfolio](https://zandersworldview.com)
+[Medium](https://medium.com/@alex2020global) · 
+[Portfolio](https://zandersworldview.com)
